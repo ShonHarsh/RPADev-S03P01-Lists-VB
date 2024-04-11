@@ -2,7 +2,7 @@
 
 # S03P01 Lists
 
-This project is my solution in **VB** to the **Lists** practice found in section 02 practice 01 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **VB** to the **Lists** practice found in section 03 practice 01 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
