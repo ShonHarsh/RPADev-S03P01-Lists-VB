@@ -4,10 +4,7 @@
   "description": "Sort the List and Print 3 Values\r\nGiven an input list of countries please sort the list and print the first 3 values in descending order.\r\n\r\nNote: Please use this value for the List initialization: new List(of String) from {\"Germany\", \"Spain\", \"Japan\", \"Brazil\", \"India\", \"China\"}.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.Mail.Activities": "[1.22.2]",
-    "UiPath.System.Activities": "[24.3.0]",
-    "UiPath.Testing.Activities": "[24.2.0-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
     "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
   },
   "webServices": [],
