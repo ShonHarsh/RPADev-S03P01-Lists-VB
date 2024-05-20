@@ -29,7 +29,7 @@ Given an input list of countries please sort the list and print the first 3 valu
 
 ### Sample Output
 
-```
+```sh
 04/03/2024 16:46:13 => [Debug] Debug started for file: Main
 04/03/2024 16:46:14 => [Info] RPADev-S03P01-Lists execution started
 04/03/2024 16:46:14 => [Info] RPADev-S03P01-Lists.Main.Begin;
@@ -51,11 +51,13 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S03P01-Lists-VB`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S03P01-Lists-VB
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Atom Editor (Used for all my Readme files)](https://atom-editor.cc/)
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
